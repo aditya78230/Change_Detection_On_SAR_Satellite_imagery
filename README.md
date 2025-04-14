@@ -102,7 +102,7 @@ SAR images are unique in their ability to capture Earth's surface regardless of 
 <img src="backend/outputs/S2.png" width="400"/>
 
 ### 🌆 Output Screenshot 3 
-<img src="backend/outputs/ss.png" width="400"/>
+<img src="backend/outputs/ss.jpg" width="400"/>
 
 ---
 
