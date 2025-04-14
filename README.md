@@ -1,8 +1,15 @@
 # 🛰️ SAR-Based Change Detection System
 
 > 🏆 **Recognitions**  
-> 🥇 **1st Prize** – Project Building and Idea Pitching Competition by **Anudip Foundation**  
-> 📄 **Research Paper Accepted** – *RAMSITA-2025* International Conference on Sustainable Intelligent Technologies & Applications  
+> 🥇 **1st Prize** – Project Building and Idea Pitching Competition by **Anudip Foundation**
+>### 🎖️ Certificate 1 – Anudip Foundation (1st Prize)
+![Anudip Certificate](backend/outputs/anudip)
+
+> 📄 **Research Paper Accepted** – *RAMSITA-2025* International Conference on Sustainable Intelligent Technologies & Applications
+> ### 📄 Certificate 2 – RAMSITA 2025 (Paper Accepted)
+![RAMSITA Certificate](backend/outputs/Screenshot 2025-04-14 193118.png)
+
+
 > 📸 Output screenshots and certificates included below
 
 ---
@@ -83,22 +90,18 @@ SAR images are unique in their ability to capture Earth's surface regardless of 
 
 ---
 
-## 📷 Output Samples & Recognitions
+## 📷 Output Samples
 
-### 🎖️ Certificate 1 – Anudip Foundation (1st Prize)
-![Anudip Certificate](images/anudip_certificate.jpg)
 
-### 📄 Certificate 2 – RAMSITA 2025 (Paper Accepted)
-![RAMSITA Certificate](images/ramsita_certificate.jpg)
 
-### 📸 Output Screenshot 1 – SAR Image Input
-![SAR Input](images/output1.jpg)
+### 📸 Output Screenshot 1 
+![SAR Input](backend/outputs/Screenshot 2024-12-12 135113.png)
 
-### 🧭 Output Screenshot 2 – Change Mask
-![Change Mask](images/output2.jpg)
+### 🧭 Output Screenshot 2 
+![Change Mask](backend/outputs/Screenshot 2025-04-14 194026.png)
 
-### 🌆 Output Screenshot 3 – Detected Change Visualization
-![Change Map](images/output3.jpg)
+### 🌆 Output Screenshot 3 
+![Change Map](backend/outputs/ss.jpg)
 
 ---
 
